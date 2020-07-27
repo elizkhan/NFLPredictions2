@@ -1,6 +1,6 @@
 # NFL Draft Predictions: Part 2 Feature Engineering and Modeling
 ##### By Elizabeth Khan
-
+![png](football.png)
 ## Goal: To predict which round a Quarterback, Wide Reciever, or Running Back will be drafted to the NFL  based on the player's performance throughout the regular season. 
 
 
@@ -81,9 +81,7 @@ import time
 script_start = time.time()
 ```
 
-    C:\Users\aneeq\Anaconda3\lib\site-packages\statsmodels\tools\_testing.py:19: FutureWarning: pandas.util.testing is deprecated. Use the functions in the public API at pandas.testing instead.
-      import pandas.util.testing as tm
-    Using TensorFlow backend.
+  
     
 
 
