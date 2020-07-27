@@ -4,7 +4,7 @@
 ## Goal: To predict which round a Quarterback, Wide Reciever, or Running Back will be drafted to the NFL  based on the player's performance throughout the regular season. 
 
 
-### In this notebook I will be covering the feature engineering and the modeling process for this dataset. If you wish to learn more about the web scraping and data cleansing please proceed to the other Jupyter Notebook located here. The csv loaded in this dataset was created from the Part 1 notebook from the sports-reference.com website.
+### In this notebook I will be covering the feature engineering and the modeling process for this dataset. If you wish to learn more about the web scraping and data cleansing please proceed to the other Jupyter Notebook located [here.](https://elizkhan.github.io/NFLPredictions/) The csv loaded in this dataset was created from the Part 1 notebook from the sports-reference.com website.
 
 ### Based on my knowledge of football these are the metrics that I  may want to start with:
 ### Potential QB Metrics
